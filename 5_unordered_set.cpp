@@ -1,6 +1,8 @@
 #include <iostream>
 #include <unordered_set>
 
+using namespace std;
+
 int main()
 {
   // Unordered Set - A container that stores unique elements in a particular order
